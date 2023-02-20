@@ -4,7 +4,7 @@ class prog2
 	 {
 		 for(int i=1;i<=5;i++)
 		 {
-		 		System.out.println(" Hello world modi");
+		 		System.out.println(" Hello world modi 2");
 		}
 	 }
 }
