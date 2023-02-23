@@ -4,7 +4,7 @@ class prog2
 	 {
 		 for(int i=1;i<=5;i++)
 		 {
-		 		SSystem.out.printlnn(" Hello world modi 400");
+		 		System.out.println(" Hello world modi 400");
 		}
 	 }
 }
