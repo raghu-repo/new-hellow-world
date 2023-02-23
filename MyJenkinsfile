@@ -1,0 +1,30 @@
+pipeline {
+  
+     agent any
+   
+
+    stages {
+        
+            stage('stage100') {
+   
+                 steps {
+          
+                     echo 'modified jenkins file name as my jenkins file'
+       
+                 }
+             
+     
+           }
+        
+           stage('stage200') {
+     
+                steps {
+       
+                    echo 'mit manipal'
+            }
+      
+       
+           }
+  
+         }
+}
